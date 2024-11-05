@@ -23,3 +23,4 @@ export * from 'react-icons/vsc';
 export * from 'react-icons/tb';
 export * from 'react-icons/tfi';
 export * from 'react-icons/rx';
+export * from 'custom-react-icons/fi';
