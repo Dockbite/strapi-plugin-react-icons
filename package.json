@@ -20,7 +20,7 @@
     "@strapi/helper-plugin": "^4.16.2",
     "@strapi/icons": "^1.13.0",
     "prop-types": "^15.8.1",
-    "react-icons": "github:Dockbite/react-icons"
+    "react-icons": "https://github.com/Dockbite/react-icons.git"
   },
   "devDependencies": {
     "@strapi/typescript-utils": "^4.16.2",
